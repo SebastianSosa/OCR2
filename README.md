@@ -6,22 +6,26 @@ Le jeu de données Open Food Facts est disponible sur le [site officiel](https:/
 
 ### Mission   
    
-   1. Réfléchissant à une idée d’application (Plots radar interactifs pour visualisation des informations nutritionnelles, écologiques et sanitaires d'un aliment).
+   1. Réfléchissant à une idée d’application
+
+         - Plots radar interactifs pour visualisation des informations nutritionnelles, écologiques et sanitaires d'un aliment:
+
+      <img src="https://github.com/SebastianSosa/OCR2/blob/main/image.png" alt="Alt text" title="Optional title">
    
-   2. Repérant des variables pertinentes pour les traitements à venir, et nécessaires pour votre idée d’application.
+   3. Repérant des variables pertinentes pour les traitements à venir, et nécessaires pour votre idée d’application.
    
-   3. Nettoyant les données en :
+   4. Nettoyant les données en :
       
       - Mettant en évidence les éventuelles valeurs manquantes, avec au moins 3 méthodes de traitement adaptées aux variables concernées.
       
       - Identifiant et en quantifiant les éventuelles valeurs aberrantes de chaque variable.
       
-   4. Automatisant ces traitements pour éviter de répéter ces opérations
-   5. Tout au long de l’analyse, produire des visualisations
-   6. Effectuer une analyse univariée pour chaque variable intéressante, afin de synthétiser son comportement (**Imputation des valeurs manquantes par KNN, corrélation**)
-   7. Confirmer ou infirmer les hypothèses à l’aide d’une analyse multivariée (**ACP**). Effectuer les tests statistiques appropriés pour vérifier la significativité des résultats (**régressions linéaires**).
-   8. Justifier votre idée d’application.
-   9. Rédiger un rapport d’exploration et pitcher votre idée durant la soutenance du projet.
+   5. Automatisant ces traitements pour éviter de répéter ces opérations
+   6. Tout au long de l’analyse, produire des visualisations
+   7. Effectuer une analyse univariée pour chaque variable intéressante, afin de synthétiser son comportement (**Imputation des valeurs manquantes par KNN, corrélation**)
+   8. Confirmer ou infirmer les hypothèses à l’aide d’une analyse multivariée (**ACP**). Effectuer les tests statistiques appropriés pour vérifier la significativité des résultats (**régressions linéaires**).
+   9. Justifier votre idée d’application.
+   10. Rédiger un rapport d’exploration et pitcher votre idée durant la soutenance du projet.
 
    
 
