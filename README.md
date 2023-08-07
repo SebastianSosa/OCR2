@@ -1,5 +1,5 @@
-# OCR1
-## OpenClassRooms project 1: Concevez une application au service de la santé publique
+# OCR2
+## OpenClassRooms project 2: Concevez une application au service de la santé publique
 
 ### Données
 Le jeu de données Open Food Facts est disponible sur le [site officiel](https://world.openfoodfacts.org/). Les variables sont définies à cette [adresse](https://world.openfoodfacts.org/data/data-fields.txt).
